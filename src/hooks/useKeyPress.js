@@ -1,7 +1,7 @@
 import { useState, useEffect } from "react";
 
 /**
- * @param {Object} targetKey The value to use as key
+ * @param {String} targetKey The value to use as key
  */
 
 export default function useKeyPress(targetKey) {
